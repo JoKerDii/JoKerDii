@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Di Zhen, born and raised in China, went to Harvard Univerity at Boston for higher education, and landed in New York City now for professional development in Finance.
+I'm Di Zhen, born and raised in China. I went to Harvard University in Boston for higher education and have now landed in New York City for professional development in finance.
 
 - Currently working on Digital Behavior Analysis and AI Agent Development.
 - Learning Claude Code while brainstorming use cases.
