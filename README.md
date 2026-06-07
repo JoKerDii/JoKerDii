@@ -17,6 +17,9 @@ I'm Di Zhen, born and raised in China. I went to Harvard University in Boston fo
   - The Hard Thing About Hard Things
   - Principles: Life and Work
 - ⚡ Fun fact:
-  - I'm an excellent manager of bipolar disorder II, anxiety disorder, and panic disorder for years. 
-  - I'm a hiphop-freestyle and house-freestyle unprofessional dancer.
+  - I have successfully managed bipolar II disorder, anxiety, and panic disorder for years.
+  - I am an amateur hip-hop and house freestyle dancer.
   - My Christian spiritual birthday was in May 2026.
+
+
+
