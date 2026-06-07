@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**JoKerDii/JoKerDii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Di Zhen, born and raised in China, went to Harvard Univerity at Boston for higher education, and landed in New York City now for professional development in Finance.
 
-Here are some ideas to get you started:
+- Currently working on Digital Behavior Analysis and AI Agent Development.
+- Learning Claude Code while brainstorming use cases.
+- Thinking about psychology, strategy, and innovations.
+- My reading list for 2026:
+  - Give and Take (completed)
+  - Getting to Yes (completed)
+  - Mindset (completed)
+  - The Big Book of Neuro Linguistic Programming (on it!)
+  - On the Edge, The Art of Risking Everything
+  - Careless People
+  - Factfulness
+  - Noise: A Flaw in Human Judgment
+  - The Hard Thing About Hard Things
+  - Principles: Life and Work
+- Fun fact:
+  - I'm an excellent manager of bipolar disorder II, anxiety disorder, and panic disorder for years. 
+  - I'm a hiphop-freestyle and house-freestyle unprofessional dancer.
+  - My Christian spiritual birthday was in May 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
