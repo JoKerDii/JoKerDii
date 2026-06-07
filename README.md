@@ -3,10 +3,10 @@
 I'm Di Zhen, born and raised in China. I went to Harvard University in Boston for higher education and have now landed in New York City for professional development in finance.
 
 - 🎯 Life Mission: To anchor every action, project, and role in a deep commitment to serving and uplifting people. 
-- 🔭 Currently working on Digital Behavior Analysis and AI Agent Development.
+- 🔭 Currently focusing on Digital Behavior Analysis and AI Agent Development.
 - 🌱 Learning Claude Code while brainstorming use cases.
 - 🤔 Thinking about psychology, strategy, and innovations.
-- 📚 My reading list for 2026:
+- 📚 Working on becoming more organized in readings - tracked [here](https://jokerdii.github.io/di-blog/) and [there](https://jokerdii.github.io/news-reading-management/). My book list for 2026:
   - Give and Take (completed)
   - Getting to Yes (completed)
   - Mindset (completed)
