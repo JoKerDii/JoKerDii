@@ -2,6 +2,7 @@
 
 I'm Di Zhen, born and raised in China. I went to Harvard University in Boston for higher education and have now landed in New York City for professional development in finance.
 
+- 🎯 Life Mission: To anchor every action, project, and role in a deep commitment to serving and uplifting people. 
 - 🔭 Currently working on Digital Behavior Analysis and AI Agent Development.
 - 🌱 Learning Claude Code while brainstorming use cases.
 - 🤔 Thinking about psychology, strategy, and innovations.
