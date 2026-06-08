@@ -19,7 +19,7 @@ I'm Di Zhen, born and raised in China. I went to Harvard University in Boston fo
   - Principles: Life and Work
 - ⚡ Fun fact:
   - Senior manager of bipolar II, anxiety, and panic disorder for years.
-  - I'm an amateur hip-hop and house freestyle dancer.
+  - Amateur hip-hop and house freestyle dancer.
   - My Christian spiritual birthday was in May 2026.
 
 
