@@ -7,13 +7,13 @@ I'm Di Zhen, born and raised in China. I went to Harvard University in Boston fo
 - 🌱 Learning Claude Code while brainstorming use cases.
 - 🤔 Thinking about psychology, strategy, and innovations.
 - 📚 Working on becoming more organized in readings - tracked [here](https://jokerdii.github.io/di-blog/) and [there](https://jokerdii.github.io/news-reading-management/). My book list for 2026:
-  - Give and Take (completed)
-  - Getting to Yes (completed)
-  - Mindset (completed)
+  - Give and Take: A Revolutionary Approach to Success (completed)
+  - Getting to Yes: Negotiating Agreement Without Giving In (completed)
+  - Mindset: The New Psychology of Success (completed)
+  - How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen (completed)
   - The Big Book of Neuro Linguistic Programming (on it!)
   - On the Edge, The Art of Risking Everything
-  - Careless People
-  - Factfulness
+  - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism
   - Noise: A Flaw in Human Judgment
   - The Hard Thing About Hard Things
   - Principles: Life and Work
