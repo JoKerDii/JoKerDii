@@ -11,9 +11,11 @@ I'm Di Zhen, born and raised in China. I went to Harvard University in Boston fo
   - Getting to Yes: Negotiating Agreement Without Giving In (completed)
   - Mindset: The New Psychology of Success (completed)
   - How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen (completed)
+  - Four Thousand Weeks: Time Management for Mortals (completed)
   - The Big Book of Neuro Linguistic Programming (on it!)
   - On the Edge, The Art of Risking Everything
-  - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism
+  - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism (on it!)
+  - Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI (on it!)
   - Noise: A Flaw in Human Judgment
   - The Hard Thing About Hard Things
   - Principles: Life and Work
