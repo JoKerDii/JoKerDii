@@ -12,6 +12,7 @@ I'm Di Zhen, born and raised in China. I went to Harvard University in Boston fo
   - Mindset: The New Psychology of Success (completed)
   - How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen (completed)
   - Four Thousand Weeks: Time Management for Mortals (completed)
+  - Deep Work: Rules for Focused Success in a Distracted World (completed)
   - The Big Book of Neuro Linguistic Programming (on it!)
   - On the Edge, The Art of Risking Everything
   - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism (on it!)
