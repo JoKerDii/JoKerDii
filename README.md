@@ -6,7 +6,7 @@ I'm Di Zhen, born and raised in China. I went to Harvard University in Boston fo
 - 🔭 Currently focusing on Digital Behavior Analysis and AI Agent Development.
 - 🌱 Learning Claude Code while brainstorming use cases.
 - 🤔 Thinking about psychology, strategy, and innovations.
-- 📚 Working on becoming more organized in readings - tracked [here](https://jokerdii.github.io/di-blog/) and [there](https://jokerdii.github.io/news-reading-management/). My book list for 2026:
+- 📚 Working on becoming more organized in readings - tracked [here](https://jokerdii.github.io/di-blog/). A book list for 2026:
   - Give and Take: A Revolutionary Approach to Success (completed)
   - Getting to Yes: Negotiating Agreement Without Giving In (completed)
   - Mindset: The New Psychology of Success (completed)
