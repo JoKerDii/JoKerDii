@@ -3,26 +3,14 @@
 I'm Di Zhen, born and raised in China. I went to Harvard University in Boston for higher education and have now landed in New York City for professional development in finance.
 
 - 🎯 Life Mission: To anchor every action, project, and role in a deep commitment to serving and uplifting people. 
-- 🔭 Currently focusing on Digital Behavior Analysis and AI Agent Development.
-- 🌱 Learning Claude Code while brainstorming use cases. Thinking about psychology, strategy, and innovations.
-- 📚 Working on becoming more organized in readings - tracked [here](https://jokerdii.github.io/di-blog/). A book list for 2026:
-  - Give and Take: A Revolutionary Approach to Success (completed)
-  - Getting to Yes: Negotiating Agreement Without Giving In (completed)
-  - Mindset: The New Psychology of Success (completed)
-  - How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen (completed)
-  - Four Thousand Weeks: Time Management for Mortals (completed)
-  - Deep Work: Rules for Focused Success in a Distracted World (completed)
-  - The Big Book of Neuro Linguistic Programming (on it!)
-  - On the Edge, The Art of Risking Everything
-  - Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism (on it!)
-  - Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI (on it!)
-  - Noise: A Flaw in Human Judgment
-  - The Hard Thing About Hard Things
-  - Principles: Life and Work
+- 🔭 Focusing on Digital Behavior Analysis and AI Agent Development at work. 
+- 🌱 Personally interested in Psychology and Behavioral Sciences.
+- 📚 Life learner and book lover.
+  - Favorite of 2024: "Daring Greatly"
+  - Favorite of 2025: "Start with Why"
+  - Current favorite of 2026: "How to Know a Person"
+  - In progress: "Empire of AI", "AI for Good", "Psycho-Cybernetics", "Don't Believe Everything You Think"
 - ⚡ Fun fact:
   - Senior manager of bipolar II, anxiety, and panic disorder for years.
   - Amateur hip-hop and house freestyle dancer.
-  - My Christian spiritual birthday was in May 2026.
-
-
-
+  - Christian spiritual birthday: May 3rd 2026.
